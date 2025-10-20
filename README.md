@@ -1,16 +1,12 @@
+[![Repo Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/ashfaaq98/ai-security-research)
+[![License](https://img.shields.io/github/license/ashfaaq98/ai-security-research)](LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/ashfaaq98/ai-security-research-hub)](https://github.com/ashfaaq98/ai-security-research/commits)
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/ashfaaq98/ai-security-research)
+[![Topics](https://img.shields.io/badge/focus-AI%20Security-blueviolet)](https://github.com/ashfaaq98/ai-security-research)
 
 # AI Security Research Hub
 
 A collection of resources documenting my research and learning journey in AI Security.
-
-
-[![Repo Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/ashfaaq98/ai-security-research-hub)
-[![License](https://img.shields.io/github/license/ashfaaq98/ai-security-research-hub)](LICENSE)
-[![Last Updated](https://img.shields.io/github/last-commit/ashfaaq98/ai-security-research-hub)](https://github.com/ashfaaq98/ai-security-research-hub/commits)
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/ashfaaq98/ai-security-research-hub)
-[![Topics](https://img.shields.io/badge/focus-AI%20Security-blueviolet)](https://github.com/ashfaaq98/ai-security-research-hub)
-
-
 This repository holds resources related to my research and study journey in the field of AI Security.
 
 Over time, I’ve been collecting a wide range of materials that I now aim to organize and maintain here. These include foundational and advanced resources that support my ongoing exploration of security challenges in artificial intelligence systems.
