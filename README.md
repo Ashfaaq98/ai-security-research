@@ -9,7 +9,8 @@
 A collection of resources documenting my research and learning journey in AI Security.
 This repository holds resources related to my research and study journey in the field of AI Security.
 
-Over time, I’ve been collecting a wide range of materials that I now aim to organize and maintain here. These include foundational and advanced resources that support my ongoing exploration of security challenges in artificial intelligence systems.
+Over time, I’ve been collecting a wide range of materials that I now aim to organize and maintain here. These include foundational and advanced resources that support my ongoing exploration of security challenges in artificial intelligence systems which includes llm models, ai agents and mcp servers.
+
 
 ---
 
@@ -18,36 +19,24 @@ Over time, I’ve been collecting a wide range of materials that I now aim to or
 ### 📚 Blogs  
 Curated posts and personal notes on AI security topics, vulnerabilities, and real-world incidents.
 
+[Blogs](./resources/BLOGS.md)
+
+
 ### 📄 Research Papers  
 Key academic and industry papers covering adversarial ML, model inversion, data poisoning, secure model training, red teaming, and related areas.
 
-### 🎥 Videos  
-Talks, lectures, webinars, and conference presentations that provide insightful commentary or demonstrations on AI security issues.
+[Research Papers](./resources/RESOURCES.md)
+
 
 ### 🛠️ Tools  
-A collection of open-source tools and frameworks useful for analysis, red teaming, and securing AI models. May include custom scripts or wrappers I develop during my research.
+A collection of open-source tools and frameworks useful for analysis, red teaming, and securing AI models. This includes mcp scanners.
 
-### 📘 Guides and Books  
-High-quality guides, textbooks, and manuals that offer structured insights into security aspects of AI, ML systems, and generative models.
-
-### 🧪 CTFs, Labs, and Playgrounds  
-Hands-on resources for experimentation and skill-building. This includes AI security labs, CTF challenges, simulated environments, and sandboxes for offensive and defensive testing.
+[Red Teaming Tools](./resources/RESOURCES.md)
 
 ---
 
-## 🎯 Purpose
 
-This repository serves both as a personal knowledge base and a contribution back to the community. By organizing these materials, I hope to make the exploration of AI Security more accessible and structured for myself and others working in this domain.
+## 🤝 Contributing
 
----
-
-## 🔄 Status
-
-This is an active and evolving project. Content will be regularly updated and restructured as my research deepens.
-
----
-
-## 📬 Contributions
-
-Suggestions, quality links, or unique tools are always welcome. Feel free to open an issue or PR if you find something that fits.
-
+Contributions are welcome!  
+If you’d like to add a new tool, paper, or blog, please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on formatting and submission.

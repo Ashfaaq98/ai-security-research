@@ -61,7 +61,3 @@ Curated practitioner-focused posts, vendor writeups, tutorials and analysis rele
 
 ---
 
-## Notes
-- Prefer reputable vendor blogs, security research labs, and established practitioners.  
-- Chronology chosen for quick scanning of fresh material. Add `YYYY-MM-DD` dates for entries you add in the future for precision.
-

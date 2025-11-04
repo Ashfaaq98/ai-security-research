@@ -16,8 +16,7 @@ Thanks for wanting to contribute. This repo is intentionally lightweight. Follow
    - Why the resource is useful (1-2 lines)
    - Tags (e.g., `tool`, `lab`, `paper`, `poC`, `vulnerable`, `framework`)
 
-## Adding labs / PoCs
-- If you add a lab or PoC, include safe-run instructions and recommended sandbox (VM, container). If the PoC could be dangerous, maintainers may refuse or move it to a special `labs/unsafe` folder with strict warnings.
+
 
 ## Editorial process
 - Small edits (typos, link fixes) will be merged quickly.
