@@ -6,29 +6,30 @@
 
 # AI Security Research Hub
 
-A collection of resources documenting my research and learning journey in AI Security.
 This repository holds resources related to my research and study journey in the field of AI Security.
 
-Over time, I’ve been collecting a wide range of materials that I now aim to organize and maintain here. These include foundational and advanced resources that support my ongoing exploration of security challenges in artificial intelligence systems which includes llm models, ai agents and mcp servers.
-
+Over time, I’ve been collecting a wide range of materials that I now aim to organize and maintain here. These include foundational and advanced resources that support my ongoing exploration of security challenges in artificial intelligence systems such as llm models, ai agents and mcp servers.
 
 ---
 
 ## 📁 Contents
 
 ### 📚 Blogs  
+
 Curated posts and personal notes on AI security topics, vulnerabilities, and real-world incidents.
 
 [Blogs](./resources/BLOGS.md)
 
 
 ### 📄 Research Papers  
-Key academic and industry papers covering adversarial ML, model inversion, data poisoning, secure model training, red teaming, and related areas.
+
+Key academic and industry papers covering prompt injection, model inversion, data poisoning, secure model training, red teaming, and related areas.
 
 [Research Papers](./resources/RESOURCES.md)
 
 
 ### 🛠️ Tools  
+
 A collection of open-source tools and frameworks useful for analysis, red teaming, and securing AI models. This includes mcp scanners.
 
 [Red Teaming Tools](./resources/RESOURCES.md)
@@ -39,4 +40,5 @@ A collection of open-source tools and frameworks useful for analysis, red teamin
 ## 🤝 Contributing
 
 Contributions are welcome!  
+
 If you’d like to add a new tool, paper, or blog, please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on formatting and submission.

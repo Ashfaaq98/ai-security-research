@@ -17,7 +17,27 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 
 ---
 
+## Learning Resources
+
+- **HackTheBox — AI Red Teamer (path)** — https://academy.hackthebox.com/path/preview/ai-red-teamer — training path.
+
+- **Dreadnode (platform)** — https://platform.dreadnode.io/crucible/dashboard — red-team platform.
+
+https://academy.tcm-sec.com/p/ai-hacking-101
+
+
+**Roadmap**
+
+https://roadmap.sh/ai-red-teaming
+
+
+https://0din.ai/
+
+
+---
+
 ## Tools & Scanners
+
 - **Prompt Injector** — https://github.com/preambleai/prompt-injector — prompt injection testing tool.
 - **Agentic LLM Vulnerability Scanner** — https://github.com/msoedov/agentic_security — scanner for agentic LLM vulnerabilities.
 - **LLMExploiter** — https://soufianetahiri.github.io/LLMExploiter/ — tool demos & techniques for exploiting LLMs (research/demo site).
@@ -34,3 +54,20 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 
 ---
 
+## Purposeful vulnerable AI Systems
+
+- **Microsoft: AI Red-Teaming Playground Labs** — https://github.com/microsoft/AI-Red-Teaming-Playground-Labs — hands-on labs.
+
+
+- **Vulnerable MCP Project** — https://vulnerablemcp.info/ — vulnerable MCP setups & testbeds.
+
+- **Chat-playground (low-cost testing)** — https://github.com/virtualsteve-star/chat-playground — playground for LLM chat experiments.
+
+  
+- **VulnBank (vulnerable chatbot)** — https://vulnbank.org/ — hosted demo.
+
+- Repo: https://github.com/Commando-X/vuln-bank?tab=readme-ov-file#testing-guide-
+
+- **Vulnerable AI Agents (OWASP initiative)** — https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/initiatives%2Fagent_security_initiative%2FREADME.md
+
+- **A2A Mock Server** — https://github.com/appsec2008/red-team-agent-against-mock-a2aserver — mock A2A tests.
