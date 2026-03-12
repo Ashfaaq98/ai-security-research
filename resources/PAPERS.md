@@ -4,6 +4,14 @@ Curated list of academic & preprint papers relevant to AI security, LLM red team
 
 ---
 
+## 2026
+
+**Agentic AI as a Cybersecurity Attack Surface: Threats, Exploits, and Defenses in Runtime Supply Chains**
+23 Feb 2026
+https://arxiv.org/pdf/2602.19555
+
+---
+
 ## 2025
 
 **Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition**
@@ -438,5 +446,4 @@ https://arxiv.org/pdf/2309.10544
 https://arxiv.org/pdf/2008.01916
 
 ---
-
 
