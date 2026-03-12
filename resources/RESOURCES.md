@@ -10,7 +10,12 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 
 - **OWASP AIVSS (AIVSS article)** — https://kenhuangus.substack.com/p/owasp-aivss-the-new-framework-for — overview of OWASP AIVSS ideas.
 - **OWASP GenAI / Top 10** — https://genai.owasp.org/ — OWASP GenAI resources & top-10-style guidance.
-- **OWASP AI Testing Guide** — https://github.com/OWASP/www-project-ai-testing-guide — community testing guidance.
+- **OWASP AI Testing Guide** — https://owasp.org/www-project-ai-testing-guide/ — official methodology for AI system assessment.
+- **SL5 Standard for AI Security** — https://standard.sl5.org/ — NIST SP 800-53 overlay for frontier AI infrastructure achieving nation-state-level security.
+- **NIST IR 8596: Cyber AI Profile (Draft)** — https://csrc.nist.gov/pubs/ir/8596/ipd — draft core profile for AI and cybersecurity.
+- **AI Agent Authentication and Authorization (IETF Draft)** — https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/ — proposed model for AI agent authentication and authorization interactions.
+- **AIVSS Dashboard / Calculator** — https://aivss.parthsohaney.online/calculator — dynamic risk assessment tool based on OWASP AIVSS.
+- **Pangea Prompt Injection Taxonomy** — https://pangea.cloud/taxonomy/ — interactive guide and taxonomy for prompt injection types.
 - **OWASP AI Security & Privacy Guide** — https://owasp.org/www-project-ai-security-and-privacy-guide/# — broader security/privacy guidance.
 - **MITRE ATLAS** — https://atlas.mitre.org/matrices/ATLAS — attacker TTP mapping for AI systems & models.
 - **MITRE: AI security & autonomous systems** — https://atlas.mitre.org/resources/ai-security-autonomous-systems
@@ -60,6 +65,8 @@ https://0din.ai/
 
 - **Skill Scanner** — https://github.com/cisco-ai-defense/skill-scanner/ — scanner for LLM skills and toolchains to surface risky capabilities and misconfigurations.
 
+- **Agentic Security Hub (Maestro)** — https://threat-model.parthsohaney.online/ — interactive threat modeling for AI agents with AIBOM support.
+
 ---
 
 ## Purposeful vulnerable AI Systems
@@ -84,5 +91,7 @@ https://0din.ai/
 - **MCP Breach-to-Fix Labs** — https://github.com/PawelKozy/mcp-breach-to-fix-labs — hands-on labs demonstrating MCP server exploitation paths followed by remediation patterns.
 
 - **Vulnerable MCP Servers Lab** — https://github.com/appsecco/vulnerable-mcp-servers-lab — deliberately vulnerable MCP servers for practicing discovery, exploitation, and hardening.
+
+- **HeliosBank LLM CTF** — https://eliwoodward.github.io/LLM_CTF/ — real-world AI-driven compromise simulations and CTF scenarios.
 
 ---
