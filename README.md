@@ -1,8 +1,12 @@
-[![Repo Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/ashfaaq98/ai-security-research)
-[![License](https://img.shields.io/github/license/ashfaaq98/ai-security-research)](LICENSE)
-[![Last Updated](https://img.shields.io/github/last-commit/ashfaaq98/ai-security-research-hub)](https://github.com/ashfaaq98/ai-security-research/commits)
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)](https://github.com/ashfaaq98/ai-security-research)
-[![Topics](https://img.shields.io/badge/focus-AI%20Security-blueviolet)](https://github.com/ashfaaq98/ai-security-research)
+<div align="center">
+  
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/ashfaaq98/ai-security-research)
+[![License](https://img.shields.io/github/license/ashfaaq98/ai-security-research?style=for-the-badge&logo=mit)](LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/ashfaaq98/ai-security-research?style=for-the-badge&logo=git)](https://github.com/ashfaaq98/ai-security-research/commits)
+[![Stars](https://img.shields.io/github/stars/ashfaaq98/ai-security-research?style=for-the-badge&logo=github)](https://github.com/ashfaaq98/ai-security-research/stargazers)
+[![Repo Size](https://img.shields.io/github/repo-size/ashfaaq98/ai-security-research?style=for-the-badge&logo=git)](https://github.com/ashfaaq98/ai-security-research)
+
+</div>
 
 # AI Security Research Hub
 
