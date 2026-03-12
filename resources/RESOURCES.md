@@ -25,6 +25,8 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 
 https://academy.tcm-sec.com/p/ai-hacking-101
 
+- **GenAI Security Training** — https://github.com/schwartz1375/genai-security-training — practical GenAI security training materials and exercises for builders and defenders.
+
 
 **Roadmap**
 
@@ -52,6 +54,12 @@ https://0din.ai/
 - **Lakera — Gandalf** — https://www.lakera.ai/lakera-gandalf — adaptive security for LLMs.
 - **PyRIT / PyRIT (Azure)** — https://github.com/Azure/PyRIT — tooling for emulating risky prompts; paper: https://arxiv.org/abs/2410.02828
 
+- **Augustus** — https://github.com/praetorian-inc/augustus — offensive AI red teaming framework for evaluating LLM agents and tool-integrated systems.
+
+- **MCP Firewall** — https://github.com/mmprotest/mcp_firewall — policy-enforcing firewall/proxy for MCP servers to filter and audit tool calls.
+
+- **Skill Scanner** — https://github.com/cisco-ai-defense/skill-scanner/ — scanner for LLM skills and toolchains to surface risky capabilities and misconfigurations.
+
 ---
 
 ## Purposeful vulnerable AI Systems
@@ -71,3 +79,10 @@ https://0din.ai/
 - **Vulnerable AI Agents (OWASP initiative)** — https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/initiatives%2Fagent_security_initiative%2FREADME.md
 
 - **A2A Mock Server** — https://github.com/appsec2008/red-team-agent-against-mock-a2aserver — mock A2A tests.
+
+
+- **MCP Breach-to-Fix Labs** — https://github.com/PawelKozy/mcp-breach-to-fix-labs — hands-on labs demonstrating MCP server exploitation paths followed by remediation patterns.
+
+- **Vulnerable MCP Servers Lab** — https://github.com/appsecco/vulnerable-mcp-servers-lab — deliberately vulnerable MCP servers for practicing discovery, exploitation, and hardening.
+
+---

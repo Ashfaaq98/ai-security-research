@@ -25,7 +25,7 @@ Curated posts and personal notes on AI security topics, vulnerabilities, and rea
 
 Key academic and industry papers covering prompt injection, model inversion, data poisoning, secure model training, red teaming, and related areas.
 
-[Research Papers](./resources/RESOURCES.md)
+[Research Papers](./resources/PAPERS.md)
 
 
 ### 🛠️ Tools  
