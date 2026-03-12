@@ -66,6 +66,8 @@ https://0din.ai/
 - **Skill Scanner** — https://github.com/cisco-ai-defense/skill-scanner/ — scanner for LLM skills and toolchains to surface risky capabilities and misconfigurations.
 
 - **Agentic Security Hub (Maestro)** — https://threat-model.parthsohaney.online/ — interactive threat modeling for AI agents with AIBOM support.
+- **Agentic Radar** — https://github.com/splx-ai/agentic-radar — security scanner and testing tool for LLM agentic workflows.
+- **DeepTeam** — https://github.com/confident-ai/deepteam — framework for red teaming LLMs and LLM-powered systems.
 
 ---
 
