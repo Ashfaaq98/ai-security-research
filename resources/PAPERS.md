@@ -14,6 +14,10 @@ https://arxiv.org/pdf/2602.19555
 
 ## 2025
 
+**A2AS: Agentic AI Runtime Security and Self-Defense**  
+8 Oct 2025  
+https://arxiv.org/pdf/2510.13825
+
 **Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition**
 28 July 2025
 https://arxiv.org/pdf/2507.20526
@@ -446,4 +450,3 @@ https://arxiv.org/pdf/2309.10544
 https://arxiv.org/pdf/2008.01916
 
 ---
-

@@ -2,15 +2,15 @@
 
 A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and community collections for **AI security** and **red teaming** (LLMs, agentic AI, prompt injection, jailbreaks, RAG/MCP risks).  
 
-> Contributing: add a one-line entry (Name — URL — 1-line description) and open a PR. See `../CONTRIBUTING.md`.
-
 ---
 
 ## Frameworks & Standards
 
+- **OWASP AISVS** — https://github.com/OWASP/AISVS/ — OWASP AI Security Verification Standard (AISVS) project.
 - **OWASP AIVSS (AIVSS article)** — https://kenhuangus.substack.com/p/owasp-aivss-the-new-framework-for — overview of OWASP AIVSS ideas.
 - **OWASP GenAI / Top 10** — https://genai.owasp.org/ — OWASP GenAI resources & top-10-style guidance.
 - **OWASP AI Testing Guide** — https://owasp.org/www-project-ai-testing-guide/ — official methodology for AI system assessment.
+ - **OWASP: A Practical Guide for Secure MCP Server Development** — https://genai.owasp.org/resource/a-practical-guide-for-secure-mcp-server-development/ — guidance for building and securing MCP servers.
 - **SL5 Standard for AI Security** — https://standard.sl5.org/ — NIST SP 800-53 overlay for frontier AI infrastructure achieving nation-state-level security.
 - **NIST IR 8596: Cyber AI Profile (Draft)** — https://csrc.nist.gov/pubs/ir/8596/ipd — draft core profile for AI and cybersecurity.
 - **AI Agent Authentication and Authorization (IETF Draft)** — https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/ — proposed model for AI agent authentication and authorization interactions.
@@ -19,6 +19,8 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 - **OWASP AI Security & Privacy Guide** — https://owasp.org/www-project-ai-security-and-privacy-guide/# — broader security/privacy guidance.
 - **MITRE ATLAS** — https://atlas.mitre.org/matrices/ATLAS — attacker TTP mapping for AI systems & models.
 - **MITRE: AI security & autonomous systems** — https://atlas.mitre.org/resources/ai-security-autonomous-systems
+- **A2AS (Agent-to-Agent Security)** — https://www.a2as.org/ — framework for agentic AI runtime security and self-defense.
+- **A2AS Framework (PDF)** — https://media.licdn.com/dms/document/media/v2/D4E1FAQHUu2RR79eFXQ/feedshare-document-pdf-analyzed/B4EZmpEI2gKYAg-/0/1759478096794?e=1761177600&v=beta&t=iEGPtCoR_Foi5X6BWGuFGdjV48hL-LxycSJLtReeWnU — PDF copy of the A2AS framework paper.
 
 ---
 
@@ -30,6 +32,10 @@ A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and commun
 
 https://academy.tcm-sec.com/p/ai-hacking-101
 
+- **DeepLearning.AI — Red Teaming LLM Applications (course)** — https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/ — short course on red teaming LLM apps.
+
+- **AI/ML Free Resources for Security & Prompt Injection** — https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection?tab=readme-ov-file#bug-bounty-programs — curated learning resources and bug bounty programs.
+
 - **GenAI Security Training** — https://github.com/schwartz1375/genai-security-training — practical GenAI security training materials and exercises for builders and defenders.
 
 
@@ -40,6 +46,15 @@ https://roadmap.sh/ai-red-teaming
 
 https://0din.ai/
 
+- **Embrace The Red (blog hub)** — https://embracethered.com/blog/ — practitioner blog with AI security and red teaming posts.
+
+---
+
+## Benchmarks & Collections
+
+- **JailbreakBench** — https://github.com/JailbreakBench/jailbreakbench — benchmark collection for jailbreak attacks.
+- **Top 10 Threats for AI Agents (Ken Huang)** — https://github.com/kenhuangus/Top-Threats-for-AI-Agents/tree/main — curated threats list for AI agents.
+- **AIDEFEND** — https://edward-playground.github.io/aidefense-framework/ — defensive countermeasure knowledge base.
 
 ---
 
@@ -64,12 +79,17 @@ https://0din.ai/
 - **MCP Firewall** — https://github.com/mmprotest/mcp_firewall — policy-enforcing firewall/proxy for MCP servers to filter and audit tool calls.
 
 - **Skill Scanner** — https://github.com/cisco-ai-defense/skill-scanner/ — scanner for LLM skills and toolchains to surface risky capabilities and misconfigurations.
+- **MCP Scanner (Cisco AI Defense)** — https://github.com/cisco-ai-defense/mcp-scanner — MCP server scanning utilities.
 
 - **Agentic Security Hub (Maestro)** — https://threat-model.parthsohaney.online/ — interactive threat modeling for AI agents with AIBOM support.
 
 - **Agentic Radar** — https://github.com/splx-ai/agentic-radar — security scanner and testing tool for LLM agentic workflows.
 
 - **DeepTeam** — https://github.com/confident-ai/deepteam — framework for red teaming LLMs and LLM-powered systems.
+
+- **Guardrails (docs)** — https://www.guardrailsai.com/docs/ — guardrails framework documentation and guides.
+
+- **Agentic Security Hub (site)** — https://agenticsecurity.info/ — hub for agentic AI security resources and tooling.
 
 ---
 
@@ -91,6 +111,7 @@ https://0din.ai/
 
 - **A2A Mock Server** — https://github.com/appsec2008/red-team-agent-against-mock-a2aserver — mock A2A tests.
 
+- **Vibe Check MCP Server** — https://github.com/PV-Bhat/vibe-check-mcp-server — test MCP server for evaluation and hardening exercises.
 
 - **MCP Breach-to-Fix Labs** — https://github.com/PawelKozy/mcp-breach-to-fix-labs — hands-on labs demonstrating MCP server exploitation paths followed by remediation patterns.
 
