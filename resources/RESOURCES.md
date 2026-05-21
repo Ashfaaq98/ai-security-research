@@ -1,25 +1,39 @@
 # RESOURCES — AI Security & Red Teaming (Hub)
 
-A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and community collections for **AI security** and **red teaming** (LLMs, agentic AI, prompt injection, jailbreaks, RAG/MCP risks).  
+A curated, focused index of frameworks, tools, labs, PoCs, benchmarks and community collections for **AI Systems Security** (LLMs, agentic AI, prompt injection, jailbreaks, RAG/MCP risks).  
 
 ---
 
 ## Frameworks & Standards
 
 - **OWASP AISVS** — https://github.com/OWASP/AISVS/ — OWASP AI Security Verification Standard (AISVS) project.
+
 - **OWASP AIVSS (AIVSS article)** — https://kenhuangus.substack.com/p/owasp-aivss-the-new-framework-for — overview of OWASP AIVSS ideas.
+
 - **OWASP GenAI / Top 10** — https://genai.owasp.org/ — OWASP GenAI resources & top-10-style guidance.
+
 - **OWASP AI Testing Guide** — https://owasp.org/www-project-ai-testing-guide/ — official methodology for AI system assessment.
- - **OWASP: A Practical Guide for Secure MCP Server Development** — https://genai.owasp.org/resource/a-practical-guide-for-secure-mcp-server-development/ — guidance for building and securing MCP servers.
+
+- **OWASP: A Practical Guide for Secure MCP Server Development** — https://genai.owasp.org/resource/a-practical-guide-for-secure-mcp-server-development/ — guidance for building and securing MCP servers.
+
 - **SL5 Standard for AI Security** — https://standard.sl5.org/ — NIST SP 800-53 overlay for frontier AI infrastructure achieving nation-state-level security.
+
 - **NIST IR 8596: Cyber AI Profile (Draft)** — https://csrc.nist.gov/pubs/ir/8596/ipd — draft core profile for AI and cybersecurity.
+
 - **AI Agent Authentication and Authorization (IETF Draft)** — https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/ — proposed model for AI agent authentication and authorization interactions.
+
 - **AIVSS Dashboard / Calculator** — https://aivss.parthsohaney.online/calculator — dynamic risk assessment tool based on OWASP AIVSS.
+
 - **Pangea Prompt Injection Taxonomy** — https://pangea.cloud/taxonomy/ — interactive guide and taxonomy for prompt injection types.
+
 - **OWASP AI Security & Privacy Guide** — https://owasp.org/www-project-ai-security-and-privacy-guide/# — broader security/privacy guidance.
+
 - **MITRE ATLAS** — https://atlas.mitre.org/matrices/ATLAS — attacker TTP mapping for AI systems & models.
+
 - **MITRE: AI security & autonomous systems** — https://atlas.mitre.org/resources/ai-security-autonomous-systems
+
 - **A2AS (Agent-to-Agent Security)** — https://www.a2as.org/ — framework for agentic AI runtime security and self-defense.
+
 - **A2AS Framework (PDF)** — https://media.licdn.com/dms/document/media/v2/D4E1FAQHUu2RR79eFXQ/feedshare-document-pdf-analyzed/B4EZmpEI2gKYAg-/0/1759478096794?e=1761177600&v=beta&t=iEGPtCoR_Foi5X6BWGuFGdjV48hL-LxycSJLtReeWnU — PDF copy of the A2AS framework paper.
 
 ---
@@ -34,15 +48,16 @@ https://academy.tcm-sec.com/p/ai-hacking-101
 
 - **DeepLearning.AI — Red Teaming LLM Applications (course)** — https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/ — short course on red teaming LLM apps.
 
-- **AI/ML Free Resources for Security & Prompt Injection** — https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection?tab=readme-ov-file#bug-bounty-programs — curated learning resources and bug bounty programs.
+- **AI/ML Free Resources for Security & Prompt Injection** — https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection — curated learning resources and bug bounty programs.
 
 - **GenAI Security Training** — https://github.com/schwartz1375/genai-security-training — practical GenAI security training materials and exercises for builders and defenders.
 
 
-**Roadmap**
+- **Roadmap**
 
 https://roadmap.sh/ai-red-teaming
 
+- **0din**
 
 https://0din.ai/
 
@@ -53,7 +68,9 @@ https://0din.ai/
 ## Benchmarks & Collections
 
 - **JailbreakBench** — https://github.com/JailbreakBench/jailbreakbench — benchmark collection for jailbreak attacks.
+
 - **Top 10 Threats for AI Agents (Ken Huang)** — https://github.com/kenhuangus/Top-Threats-for-AI-Agents/tree/main — curated threats list for AI agents.
+
 - **AIDEFEND** — https://edward-playground.github.io/aidefense-framework/ — defensive countermeasure knowledge base.
 
 ---
@@ -61,17 +78,28 @@ https://0din.ai/
 ## Tools & Scanners
 
 - **Prompt Injector** — https://github.com/preambleai/prompt-injector — prompt injection testing tool.
+
 - **Agentic LLM Vulnerability Scanner** — https://github.com/msoedov/agentic_security — scanner for agentic LLM vulnerabilities.
+
 - **LLMExploiter** — https://soufianetahiri.github.io/LLMExploiter/ — tool demos & techniques for exploiting LLMs (research/demo site).
+
 - **Moonshot (Aiverify)** — https://github.com/aiverify-foundation/moonshot — red-team/eval resources.
   - Project page: https://aiverifyfoundation.sg/project-moonshot/
+
 - **mcp-scan (invariantlabs-ai)** — https://github.com/invariantlabs-ai/mcp-scan — MCP server vulnerability scanner.
+
 - **MCP Scanner (gist)** — https://gist.github.com/fr0gger/1731d89a02d08a1bc9a00982c02e2f44 — utility snippet for MCP scanning.
+
 - **Agent-Wiz** — https://github.com/Repello-AI/Agent-Wiz — threat modelling & visualization for AI agents.
+
 - **Garak (NVIDIA)** — https://github.com/NVIDIA/garak — runtime & security utilities.
+
 - **Giskard** — https://www.giskard.ai/ — model testing & evaluation platform.
+
 - **LlamaFirewall (PurpleLlama)** — https://meta-llama.github.io/PurpleLlama/LlamaFirewall/ — guardrail system for agents.
+
 - **Lakera — Gandalf** — https://www.lakera.ai/lakera-gandalf — adaptive security for LLMs.
+
 - **PyRIT / PyRIT (Azure)** — https://github.com/Azure/PyRIT — tooling for emulating risky prompts; paper: https://arxiv.org/abs/2410.02828
 
 - **Augustus** — https://github.com/praetorian-inc/augustus — offensive AI red teaming framework for evaluating LLM agents and tool-integrated systems.
@@ -101,7 +129,6 @@ https://0din.ai/
 - **Vulnerable MCP Project** — https://vulnerablemcp.info/ — vulnerable MCP setups & testbeds.
 
 - **Chat-playground (low-cost testing)** — https://github.com/virtualsteve-star/chat-playground — playground for LLM chat experiments.
-
   
 - **VulnBank (vulnerable chatbot)** — https://vulnbank.org/ — hosted demo.
 
