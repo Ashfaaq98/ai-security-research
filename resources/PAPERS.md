@@ -6,6 +6,10 @@ Curated list of academic & preprint papers relevant to AI security, LLM red team
 
 ## 2026
 
+- **Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**
+Mar 2026
+https://arxiv.org/abs/2603.30016
+
 - **Agentic AI as a Cybersecurity Attack Surface: Threats, Exploits, and Defenses in Runtime Supply Chains**
 23 Feb 2026
 https://arxiv.org/pdf/2602.19555

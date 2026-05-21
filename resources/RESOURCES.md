@@ -83,6 +83,8 @@ https://0din.ai/
 
 - **LLMExploiter** — https://soufianetahiri.github.io/LLMExploiter/ — tool demos & techniques for exploiting LLMs (research/demo site).
 
+- **FuzzyAI** — https://github.com/cyberark/FuzzyAI — automated LLM fuzzing tool for identifying and mitigating potential jailbreaks.
+
 - **Moonshot (Aiverify)** — https://github.com/aiverify-foundation/moonshot — red-team/eval resources.
   - Project page: https://aiverifyfoundation.sg/project-moonshot/
 

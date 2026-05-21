@@ -95,6 +95,9 @@ Curated practitioner-focused posts, vendor writeups, tutorials and analysis rele
 - **Methodology for incident response on generative AI workloads** — AWS Security Blog — Sep 2024  
   https://aws.amazon.com/blogs/security/methodology-for-incident-response-on-generative-ai-workloads/
 
+- **The AWS AI Security Framework** — AWS Security Blog — 2024  
+  https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/
+
 - **MIT's AI Risk Repository: A Game-Changer for AI Security** — AI Security Pro — Aug 2024  
   https://www.aisecurity.pro/mit-ai-risk-repo/
 
